@@ -73,40 +73,23 @@ $ python3 frontend/Main.py
 
 ---
 
-<style>
-.authors {
-   display: flex;
-   justify-content: space-between;
-}
-</style>
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/AkiraTorres"><img src="https://github.com/AkiraTorres.png" width="100px;" alt=""/><br /><sub><b>Thiago Torres</b></sub></a></td>
+    <td align="center"><a href="https://github.com/AsTunO"><img src="https://github.com/AsTunO.png" width="100px;" alt=""/><br /><sub><b>Júlio César</b></sub></td>
+    <td align="center"><a href="https://github.com/Gustavoo151"><img src="https://github.com/Gustavoo151.png" width="100px;" alt=""/><br /><sub><b>Gustavo Oliveira</b></sub></td>
+    <td align="center"><a href="https://github.com/JonhPK"><img src="https://github.com/JonhPK.png" width="100px;" alt=""/><br /><sub><b>João Mendes</b></sub></td>
+    <td align="center"><a href="https://github.com/Cesar0000"><img src="https://github.com/Cesar0000.png" width="100px;" alt=""/><br /><sub><b>Roberto Cesar</b></sub</td>
+  </tr>
+</table>
 
-<div class="authors">
-<a href="https://github.com/AkiraTorres">
- <img style="border-radius: 50%;" src="https://github.com/AkiraTorres.png" width="100px;" alt=""/>
- <br />
- <sub><b>Thiago Torres</b></sub></a>
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
 
-<a href="https://github.com/AsTunO">
- <img style="border-radius: 50%;" src="https://github.com/AsTunO.png" width="100px;" alt=""/>
- <br />
- <sub><b>Júlio César</b></sub></a>
-
-<a href="https://github.com/Gustavoo151">
- <img style="border-radius: 50%;" src="https://github.com/Gustavoo151.png" width="100px;" alt=""/>
- <br />
- <sub><b>Gustavo Oliveira</b></sub></a>
-
-<a href="https://github.com/JonhPK">
- <img style="border-radius: 50%;" src="https://github.com/JonhPK.png" width="100px;" alt=""/>
- <br />
- <sub><b>Gustavo Oliveira</b></sub></a>
-
-<a href="https://github.com/Cesar0000">
- <img style="border-radius: 50%;" src="https://github.com/Cesar0000.png" width="100px;" alt=""/>
- <br />
- <sub><b>Rodrigo Cesar</b></sub></a>
-
-</div>
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Créditos
 
