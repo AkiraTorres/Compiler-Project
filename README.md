@@ -90,10 +90,3 @@ $ python3 frontend/Main.py
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-## Créditos
-
----
-
--   Um agradecimento especial para [http.cat](https://http.cat/), boa parte do projeto perderia o charme sem as imagens, e foi graças a esse site que eu tive inspiração para fazer o bot.
--   As informações sobre os códigos HTTP foram retiradas dos sites [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status#respostas_informativas) e [Wikipedia](https://pt.wikipedia.org/wiki/Lista_de_c%C3%B3digos_de_estado_HTTP).
