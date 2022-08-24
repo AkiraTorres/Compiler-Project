@@ -48,7 +48,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina o [Python 3]
 Clone este repositório:
 
 ```bash
-$ git clone <https://github.com/akiratorres/compiler-project>
+$ git clone https://github.com/akiratorres/compiler-project
 ```
 
 Acesse a pasta do projeto no terminal:
