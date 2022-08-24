@@ -4,8 +4,6 @@
 
 ## Sobre
 
----
-
 Compilador básico escrito em Python, utilizando-se do paradigma imperativo, dedicando-se a compilar uma suposta linguagem parecida com a linguagem C. 
 
 Esse compilador foca nas partes do Frontend de um compilador, visando no final até a parte de Geração de Código Intermediário.
@@ -25,8 +23,6 @@ Esse compilador ainda está em desenvolvimento, por enquanto apenas o Analisador
 
 ## Features
 
----
-
 O compilador ainda está em desenvolvimento e por enquanto apenas o analisador léxico e a tabela de símbolos estão desenvolvidos. Conforme a matéria de Compiladores for sendo desenvolvida, as outras partes do compilador vão sendo desenvolvidas.
 
 -   [x] Analisador Léxico.
@@ -35,8 +31,6 @@ O compilador ainda está em desenvolvimento e por enquanto apenas o analisador l
 -   [ ] Gerador de Código Intermediário.
 
 ## Instalação
-
----
 
 ### Pré-requisitos
 
@@ -70,8 +64,6 @@ $ python3 frontend/Main.py
 
 
 ## Autores
-
----
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
